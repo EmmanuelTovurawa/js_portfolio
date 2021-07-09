@@ -1,0 +1,21 @@
+#gallery{
+    align-items: center;
+    width: 70%;
+    float:none;
+}
+p{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal;
+    padding: 5px;
+    margin: 20px;
+    text-shadow: cyan;
+    
+}
+h1{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding: 5px;
+    margin: 20px;
+}
