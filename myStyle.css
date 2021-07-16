@@ -1,0 +1,15 @@
+#about{
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+.timeline{
+    color:gray;
+    font-size: medium;
+}
+.row{
+    padding: 10px;
+}
+
+.col-lg-4{
+    border-radius: 5px ;
+}
